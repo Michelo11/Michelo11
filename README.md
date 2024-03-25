@@ -7,6 +7,7 @@
 ![](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=green)
 ![](https://img.shields.io/badge/Vue-323330?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![](https://img.shields.io/badge/Astro-323330?style=for-the-badge&logo=astro&logoColor=red)
+![](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 
 [![](https://readme-stats-six-amber.vercel.app/api?username=Michelo11&show_icons=true&count_private=true)](https://github.com/Michelo11)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michelo11&layout=compact)
